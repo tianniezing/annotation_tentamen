@@ -29,3 +29,7 @@ Revision: https://test.cloudfiles.io/nEJYwlL7MsJ
 - Week 4: IAA
 - Week 5: ML & Decision tree
 - Week 6: Experimental Setup and Naive Bayes
+
+
+### Drive
+https://drive.google.com/drive/folders/1P6UpExPiezNkAX3Kx3C1cqV_JNWc1zAQ?usp=sharing
